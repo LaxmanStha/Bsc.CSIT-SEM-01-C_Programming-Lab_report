@@ -1,0 +1,100 @@
+# Lab Questions - Programming Exercises
+
+## Lab 1
+
+1. WAP to find the area of the rectangle.
+
+2. WAP to find simple interests.
+
+3. Write a C program to find the area and volume of sphere and display the results.
+   - Formulas:
+     - Area = 4*PI*R*R
+     - Volume = 4/3*PI*R*R*R
+   - Note: Assume PI=3.14 and take the value of R from user
+
+4. Write a program to evaluate the area of triangle with 3 sides given and display the result (take the value of sides from user as input).
+   - Hints: area=sqrt(s(s-a)(s-b)(s-c)) where a,b,c are the sides of the triangle and s=(a+b+c)/2
+
+5. Write a C program to find the sum of individual digits of a 3 digit number.
+
+6. Write a program to swap two variable values with or without using a third variable.
+
+7. Write a program to compute amount of electric bill as per charge below:
+   - No of Units Consumed | Rates (in Rs.)
+     - 500 and above      | 5.50
+     - 200-500            | 3.50
+     - 100-200            | 2.50
+     - Less than 100      | 1.50
+
+8. Write a C program which takes two integer operands and one operator from the user, performs the operation and then prints the result. (Consider the operators +,-,*, /, % and use Switch Statement)
+
+9. Write a program to test if the character is digit or alphabet or special character on given conditions.
+   - Character | Message
+     - 0-9      | Alpha Digit
+     - a-z      | Alpha lower case character
+     - A-Z      | Alpha Uppercase character
+     - Other    | special character
+
+10. Write a program to find the middle number among 3 numbers.
+
+11. WAP to ask two numbers and find out they are the same or greater than.
+
+12. WAP to ask two integer number and perform mathematical operations by using operators (+,-,*,/,%) using a switch case.
+
+13. WAP to ask age of a person and tell him/her age group as mentioned below:
+    - Age Group | Category
+      - 0-5      | Child
+      - 6-12     | Young
+      - 13-19    | Teen
+      - 20-40    | Adult
+      - Above 40 | Old
+
+14. A company pays its employees on an hourly basis. If an employee works for 8 hrs he gets Rs.100/- hrs and 120/- hrs for additional hours. Write a program to read working hours of an employee and calculate the wages.
+
+
+## Lab 2
+
+1. WAP to find the largest number among three numbers.
+
+2. WAP to find the middle number among three numbers.
+
+3. WAP to find the factor of any given number.
+
+4. WAP to print the sum of the first n natural number.
+
+5. WAP to display prime numbers between 1 to 100.
+
+6. WAP to ask any 10 roll numbers and sort them in ascending order.
+
+7. WAP to input 3x2 matrix and display in TRANSPOSE form. I.e. 2x3 order.
+
+8. WAP to input a number and count even and odd numbers in the entered number.
+
+9. WAP to print fibonacci series up to Nth term.
+
+10. WAP to print Hail stone series.
+
+
+## Lab 3. Structure and Union ; Pointer
+
+1. WAP to ask name, address and roll of a student and display the record using structure
+
+2. WAP to create a structure name Student and store the record of any 10 students and count the total number of pass and fail students
+
+3. WAP to ask employee's name, address, pin and phone display the employee living in Banepa using structure.
+
+4. WAP to print name, roll and date of birth using nested structure.
+
+5. WAP to store the record of n numbers employees using union.
+
+6. WAP in C to accept a number and print its value and address using a pointer.
+
+7. WAP to print values and addresses of 5 elements stored in an array using a pointer.
+
+8. WAP to swap values of two variables using function and pointer.
+
+9. WAP to calculate the factor of given number using a pointer.
+
+10. WAP to check whether a number is even or odd using pointers.
+
+11. WAP to sort to numbers in descending order using a pointer.
