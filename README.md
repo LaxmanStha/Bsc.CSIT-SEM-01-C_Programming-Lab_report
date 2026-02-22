@@ -6,7 +6,6 @@ This repository contains **C Programming lab reports** for **BSc.CSIT Semester 1
 - C source codes
 - Lab exercises
 - Program outputs
-- Short explanations (as per syllabus)
 
 ## Subject
 C Programming
