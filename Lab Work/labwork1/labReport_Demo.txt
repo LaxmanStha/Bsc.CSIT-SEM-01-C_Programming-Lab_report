@@ -1,0 +1,31 @@
+Lab Report: Basic C Programming Exercises
+Introduction
+This lab focuses on foundational concepts of the C programming language. The exercises are designed to strengthen understanding of arithmetic operations, conditional statements, loops, and switch cases. By working through these problems, we gain practical experience in writing, compiling, and debugging C programs. These tasks also emphasize problem-solving skills and logical thinking, which are essential for progressing to advanced programming topics.
+
+Objectives
+- To understand and apply basic syntax and structure of C programs.
+- To practice arithmetic operations and formula-based calculations.
+- To implement conditional statements (if-else, switch) for decision-making.
+- To use loops and modular programming for repetitive tasks.
+- To develop problem-solving skills by applying mathematical and logical concepts in programming.
+
+Results
+The lab exercises covered a wide range of problems:
+- Geometry calculations: Programs to compute the area of rectangles, spheres, and triangles.
+- Mathematical operations: Programs for simple interest, digit summation, and swapping variables.
+- Decision-making: Programs to calculate electricity bills, identify character types, and determine age groups.
+- Switch-case applications: Programs to perform arithmetic operations and classify inputs.
+- Practical scenarios: Programs to compute employee wages and compare numbers.
+Each program successfully demonstrated the intended concept. For example:
+- The sphere program correctly calculated both area and volume using user input.
+- The electricity bill program applied conditional logic to compute charges based on units consumed.
+- The wage calculation program differentiated between normal and overtime hours.
+These results confirm that the exercises effectively reinforced the basics of C programming.
+Conclusion
+This lab provided a comprehensive introduction to C programming through practical exercises. we learned how to structure programs, handle user input, and apply mathematical formulas. The use of conditional statements and switch cases improved logical reasoning and decision-making skills. Overall, the lab achieved its objective of building a strong foundation in programming, preparing we for more advanced topics such as arrays, functions, and data structures.
+
+References
+- Kernighan, B. W., & Ritchie, D. M. (1988). The C Programming Language (2nd ed.). Prentice Hall.
+- Balagurusamy, E. (2019). Programming in ANSI C. McGraw Hill Education.
+- Online C Programming Tutorials: GeeksforGeeks (geeksforgeeks.org in Bing)
+- Lecture notes and lab instructions provided by the course instructor.
