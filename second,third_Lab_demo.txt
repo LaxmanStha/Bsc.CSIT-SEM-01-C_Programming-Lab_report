@@ -1,0 +1,42 @@
+Lab Report: Intermediate C Programming – Control Structures, Arrays, Structures, Unions, and Pointers
+
+Introduction
+This lab builds upon the foundational concepts of C programming introduced earlier. It focuses on intermediate-level problem solving using control structures, arrays, matrices, structures, unions, and pointers. The exercises are designed to enhance logical reasoning, data organization, and memory management skills. By practicing these tasks, students gain deeper insights into how C handles data and how programmers can leverage structures and pointers for efficient solutions.
+
+Objectives
+- To strengthen understanding of conditional statements and iterative loops.
+- To practice array manipulation, sorting, and matrix operations.
+- To implement structures and unions for organizing complex data.
+- To apply pointers for direct memory access and manipulation.
+- To develop problem-solving skills through mathematical and logical programming tasks.
+
+Software and Tools Used
+- Programming Language: C (ANSI C standard)
+- Compiler: GCC (GNU Compiler Collection) or Turbo C (depending on lab setup)
+- IDE/Editor: Code::Blocks, Dev-C++, or Notepad++
+- Operating System: Windows/Linux environment for compiling and running programs
+- Additional Tools: Command-line terminal, debugging utilities provided by IDE
+
+Results
+The lab exercises demonstrated the following outcomes:
+- Lab 2 (Control Structures and Arrays)
+- Programs successfully identified the largest and middle numbers among three inputs.
+- Factorization and prime number generation reinforced loop and conditional logic.
+- Sorting roll numbers and matrix transpose tasks demonstrated array manipulation.
+- Fibonacci and Hailstone series programs showcased iterative problem-solving.
+- Lab 3 (Structures, Unions, and Pointers)
+- Student and employee records were stored and displayed using structures.
+- Nested structures allowed handling of complex data like date of birth.
+- Unions were applied to manage employee records with shared memory.
+- Pointer-based programs successfully displayed values and addresses, swapped variables, and checked even/odd numbers.
+- Sorting and factorization using pointers highlighted memory-level operations.
+Overall, each program achieved its intended purpose, reinforcing both theoretical and practical aspects of C programming.
+
+Conclusion
+This lab provided hands-on experience with intermediate C programming concepts. Students learned how to manipulate arrays, matrices, and series using loops and conditionals. Structures and unions introduced efficient ways to organize and manage data, while pointers offered direct control over memory. These exercises not only improved programming proficiency but also prepared students for advanced topics such as dynamic memory allocation, file handling, and data structures.
+
+References
+- Kernighan, B. W., & Ritchie, D. M. (1988). The C Programming Language (2nd ed.). Prentice Hall.
+- Balagurusamy, E. (2019). Programming in ANSI C. McGraw Hill Education.
+- GeeksforGeeks – C Programming Tutorials (geeksforgeeks.org) (geeksforgeeks.org in Bing)
+- Lecture notes and lab instructions provided by the course instructor.
