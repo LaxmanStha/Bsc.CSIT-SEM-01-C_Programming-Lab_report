@@ -1,7 +1,7 @@
-Lab Report: Intermediate C Programming – Control Structures, Arrays, Structures, Unions, and Pointers
+Lab 2 Report: Basic Numeric Operations in C Programming
 
 Introduction
-This lab builds upon the foundational concepts of C programming introduced earlier. It focuses on intermediate-level problem solving using control structures, arrays, matrices, structures, unions, and pointers. The exercises are designed to enhance logical reasoning, data organization, and memory management skills. By practicing these tasks, students gain deeper insights into how C handles data and how programmers can leverage structures and pointers for efficient solutions.
+This lab explores fundamental C programming techniques for numeric processing, including comparisons, prime generation, matrix transposition, recursive sequences, and iterative series. These exercises reinforce control structures like loops and conditionals essential for algorithmic problem-solving.
 
 Objectives
 - To strengthen understanding of conditional statements and iterative loops.
@@ -11,11 +11,13 @@ Objectives
 - To develop problem-solving skills through mathematical and logical programming tasks.
 
 Software and Tools Used
-- Programming Language: C (ANSI C standard)
-- Compiler: GCC (GNU Compiler Collection) or Turbo C (depending on lab setup)
-- IDE/Editor: Code::Blocks, Dev-C++, or Notepad++
-- Operating System: Windows/Linux environment for compiling and running programs
-- Additional Tools: Command-line terminal, debugging utilities provided by IDE
+- Operating System: Windows 10/11, Linux (Ubuntu), or macOS.
+- Integrated Development Environment (IDE): * Code::Blocks: A popular, open-source IDE used for C/C++ development.
+- Dev-C++: A lightweight IDE often used in academic environments.
+- Visual Studio Code (VS Code): A modern editor with C/C++ extensions and a terminal.
+- Turbo C++: A classic (legacy) compiler still used in some curricula for learning fundamentals.
+- Compiler: GCC (GNU Compiler Collection) or MinGW (Minimalist GNU for Windows).
+- Documentation Tool: Microsoft Word or Google Docs for formatting the report, and Snipping Tool/Command+Shift+4 for capturing output results.
 
 Results
 The lab exercises demonstrated the following outcomes:
